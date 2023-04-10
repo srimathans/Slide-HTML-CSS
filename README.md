@@ -1,1 +1,2 @@
-# Slide-HTML-CSS
+# Slide-HTML-CSS 
+developed using HTML CSS only
